@@ -74,6 +74,7 @@ The project includes multiple experiments to evaluate the effect of:
 ##  Repository Structure
 
  Sentiment-Analysis-IMDB
+|
 ├── data/
 │ └── IMDB Dataset.csv
 ├── notebooks/
@@ -89,7 +90,7 @@ The project includes multiple experiments to evaluate the effect of:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas, NumPy
