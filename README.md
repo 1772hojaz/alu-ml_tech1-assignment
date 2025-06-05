@@ -66,8 +66,8 @@ The project includes multiple experiments to evaluate the effect of:
 | Logistic Regression | ~88.8%   | ~0.89      | ~0.89   | ~0.89     |
 | SVM (LinearSVC)     | ~89.6%   | ~0.90      | ~0.89   | ~0.90     |
 
-- Both models achieved strong results.
-- SVM slightly outperformed Logistic Regression in overall metrics.
+- The models achieved strong results.
+- For traditional models, SVM slightly outperformed Logistic Regression in overall metrics.
 
 ---
 
