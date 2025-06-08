@@ -84,7 +84,7 @@ Ensure `Dataset/IMDB Dataset.csv` is in place.
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Open the notebook:
 
